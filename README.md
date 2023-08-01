@@ -23,5 +23,5 @@ Completed the six weeks course [Algorithms: Design and Analysis, Part I on edX](
 * [median maintenance](https://github.com/gedd1/algorithms-design-and-analysis/tree/main/Assignment6)
 
 ####Statements of accomplishment
-Part 1, course from January 19, 2015 to March 14, 2015. Grade achieved: 100%.
+Part 1, finished on 31th of June. Grade achieved: 100%.
 ![Statements of Accomplishment](https://github.com/gedd1/algorithms-design-and-analysis/blob/main/certificate-1.png)
