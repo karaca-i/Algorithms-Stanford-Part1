@@ -9,6 +9,7 @@ Completed the six weeks course [Algorithms: Design and Analysis, Part I on edX](
 
 #####Randomized Algorithm:
 * [quick sort - pivotChoosing](https://github.com/gedd1/algorithms-design-and-analysis/tree/main/Assignment2)
+* [randomized selection - linear time](https://github.com/gedd1/algorithms-design-and-analysis/tree/main/Assignment2)
 
 #####Graph:
 * [dijkstra shortest path](https://github.com/gedd1/algorithms-design-and-analysis/tree/main/Assignment5)
@@ -23,5 +24,5 @@ Completed the six weeks course [Algorithms: Design and Analysis, Part I on edX](
 * [median maintenance](https://github.com/gedd1/algorithms-design-and-analysis/tree/main/Assignment6)
 
 ####Statements of accomplishment
-Part 1, finished on 31th of June. Grade achieved: 100%.
+June 31th 2023. Grade achieved: 100%.
 ![Statements of Accomplishment](https://github.com/gedd1/algorithms-design-and-analysis/blob/main/certificate-1.png)
