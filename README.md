@@ -25,4 +25,4 @@ Completed the six weeks course [Algorithms: Design and Analysis, Part I on edX](
 
 ####Statements of accomplishment
 June 31th 2023. Grade achieved: 100%.
-![Statements of Accomplishment](https://github.com/gedd1/algorithms-design-and-analysis/blob/main/certificate-1.png)
+![Statements of Accomplishment](https://github.com/gedd1/Algorithms-Stanford-Part1/blob/main/certificate1.png)
